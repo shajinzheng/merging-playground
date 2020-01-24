@@ -1,5 +1,6 @@
 {
   "description": "This is a spec json",
   "version": "1.2.3",
-  "new-field": "new-value"
+  "new-field": "new-value",
+  "field-2": "value"
 }
